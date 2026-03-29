@@ -15,7 +15,7 @@ def setup(message):
         "👉 *MÉTODO 2: BREVENT / SHIZUKU*\n"
         "1. Descarga el archivo `aliien_fast.sh` de nuestro canal.\n"
         "2. Ejecuta: `sh /sdcard/Download/aliien_fast.sh` \n\n"
-        "🔗 *CANAL DE WHATSAPP:* [ENTRAR AQUÍ](https://whatsapp.com/channel/TuLinkReal)"
+        "🔗 *CANAL DE WHATSAPP:* [ENTRAR AQUÍ](https://whatsapp.com/channel/0029VbCcFzILY6d7SA9jhL1A)"
     )
     bot.send_message(message.chat.id, msg, parse_mode="Markdown")
 
